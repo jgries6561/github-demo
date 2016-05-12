@@ -1,6 +1,5 @@
 # github-demo
-CHANGE FROM BRANCH
-MORE text from a new branch
+Blah blah blah
 DO NOT DELETE THIS LINE
 
 ## Introduction
